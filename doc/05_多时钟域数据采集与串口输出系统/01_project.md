@@ -1,4 +1,4 @@
-- 在F:\synthpilot_tutorial\prj\01下创建以下目录：
+- 在D:\youFPGA\cc_learn\led下创建以下目录：
 
   ```
   \prj
@@ -8,7 +8,7 @@
   \rtl
   ```
 
-- 在\prj目录下创建一个vivado工程，芯片型号：XC7Z010-1CLG400I，工程名为demo01
+- 在\prj目录下创建一个vivado工程，芯片型号：XC7Z020-CLG4841，工程名为demo01
 - 在\rtl下创建一个blink led模块并添加到工程
 - 在\rtl下创建一个按键模块(带消抖处理)到工程
 - 在\rtl下创建一个顶层模块，例化上面编写的两个模块，将此模块设为顶层
